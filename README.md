@@ -1,0 +1,2 @@
+# GimpAssetsManager
+Gimp Assets Manager
